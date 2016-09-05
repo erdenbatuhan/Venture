@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6b6a59812c5043d9b76d584d87ae6c5
+timeCreated: 1472035779
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coinEffect: {fileID: 100000, guid: 46d4ea6cffe2943cca285517d1bf8bd0, type: 2}
+  - clip: {fileID: 8300000, guid: 3e1d5018648c14b69b52dd104da53f08, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
