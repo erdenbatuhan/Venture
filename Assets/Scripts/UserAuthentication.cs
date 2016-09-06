@@ -1,6 +1,6 @@
 ﻿//
 //  UserAuthentication.cs
-//  A Vaila Ball
+//  A Vaila Ball - Computer
 //
 //  Created by Batuhan Erden.
 //  Copyright © 2016 Batuhan Erden. All rights reserved.
@@ -11,7 +11,7 @@ using System.Collections;
 
 public class UserAuthentication : MonoBehaviour {
 	
-	private const string URL_REGISTER_USER = "http://138.68.143.170/VailaBall/r88732gb23g7g3b3u2g1873rb13ubdn131mc218nec811.php";
+	private const string URL_REGISTER_USER = "http://138.68.143.170/VailaBall_DATA/Computer_DATA/r88732gb23g7g3b3u2g1873rb13ubdn131mc218nec811.php";
 	private string username = "";
 	private string password = "";
 	private string message = "";

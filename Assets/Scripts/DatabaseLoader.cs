@@ -1,6 +1,6 @@
 ﻿//
 //  DatabaseLoader.cs
-//  A Vaila Ball
+//  A Vaila Ball - Computer
 //
 //  Created by Batuhan Erden.
 //  Copyright © 2016 Batuhan Erden. All rights reserved.
@@ -13,7 +13,7 @@ using System.Linq;
 
 public class DatabaseLoader : MonoBehaviour {
 
-	private const string URL_LOAD_USERS = "http://138.68.143.170/VailaBall/l7237h2347g2387d3b2f7g32b3e7geb2u2g3infn2unz.php";
+	private const string URL_LOAD_USERS = "http://138.68.143.170/VailaBall_DATA/Computer_DATA/l7237h2347g2387d3b2f7g32b3e7geb2u2g3infn2unz.php";
 	public static bool databaseLoaded = false;
 
 	private void OnGUI() {

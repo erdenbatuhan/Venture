@@ -1,6 +1,6 @@
 ﻿//
 //  DatabaseUpdater.cs
-//  A Vaila Ball
+//  A Vaila Ball - Computer
 //
 //  Created by Batuhan Erden.
 //  Copyright © 2016 Batuhan Erden. All rights reserved.
@@ -11,7 +11,7 @@ using System.Collections;
 
 public class DatabaseUpdater : MonoBehaviour {
 
-	private const string URL_UPDATE_USERS = "http://138.68.143.170/VailaBall/u82g932buig23bi3n2832ud3b23bf2382db33872.php";
+	private const string URL_UPDATE_USERS = "http://138.68.143.170/VailaBall_DATA/Computer_DATA/u82g932buig23bi3n2832ud3b23bf2382db33872.php";
 	private bool isUpdatingDatabase = false;
 
 	private void OnGUI() {

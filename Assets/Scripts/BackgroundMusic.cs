@@ -1,6 +1,6 @@
 ﻿//
 //  BackgroundMusic.cs
-//  A Vaila Ball
+//  A Vaila Ball - Computer
 //
 //  Created by Batuhan Erden.
 //  Copyright © 2016 Batuhan Erden. All rights reserved.
